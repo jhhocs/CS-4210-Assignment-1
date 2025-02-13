@@ -3,7 +3,7 @@
 # FILENAME: decision_tree.py
 # SPECIFICATION: Plot a decision tree
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment Start: 9:50 PM Programming
+# TIME SPENT: 7-8 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
